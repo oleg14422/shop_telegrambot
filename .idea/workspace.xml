@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c7b1c010-f47d-48e0-a02b-f79774fc0331" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shopbot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FMS/admin_FMS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_handlers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/callback_factory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kbrd/admin_kbrd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middlewares/admin_middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/db_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_FMS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_handlers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_kbrd.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2roqPaxSq7rsZnTSLwBDpBZyxfI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.admin_handlers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.db.executor&quot;: &quot;Run&quot;,
+    &quot;Python.db_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.run bot.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/11111/PycharmProjects/shopbot/bot.py&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\11111\PycharmProjects\shopbot\tests" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="run bot" type="PythonConfigurationType" factoryName="Python">
+      <module name="shopbot" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.11 (shopbot)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.22855.92" />
+        <option value="bundled-python-sdk-b068d85d1acf-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.22855.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7b1c010-f47d-48e0-a02b-f79774fc0331" name="Changes" comment="" />
+      <created>1737235752213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737235752213</updated>
+      <workItem from="1737235753689" duration="1649000" />
+      <workItem from="1737238031950" duration="281000" />
+      <workItem from="1737250296407" duration="1899000" />
+      <workItem from="1737320661604" duration="2834000" />
+      <workItem from="1737336780080" duration="4393000" />
+      <workItem from="1737382017701" duration="5626000" />
+      <workItem from="1737662838169" duration="2532000" />
+      <workItem from="1737906113536" duration="3505000" />
+      <workItem from="1737935769319" duration="138000" />
+      <workItem from="1738103411562" duration="1648000" />
+      <workItem from="1738163150317" duration="1578000" />
+      <workItem from="1738164881031" duration="214000" />
+      <workItem from="1738264935436" duration="320000" />
+      <workItem from="1738340627417" duration="2929000" />
+      <workItem from="1738350126028" duration="2082000" />
+      <workItem from="1738669503513" duration="151000" />
+      <workItem from="1738688042525" duration="961000" />
+      <workItem from="1738755879847" duration="2315000" />
+      <workItem from="1738758639044" duration="75000" />
+      <workItem from="1738873042988" duration="276000" />
+      <workItem from="1738943469075" duration="1006000" />
+      <workItem from="1738947684367" duration="482000" />
+      <workItem from="1738948183903" duration="30000" />
+      <workItem from="1739047071866" duration="29000" />
+      <workItem from="1739196710108" duration="3493000" />
+      <workItem from="1739204585710" duration="3657000" />
+      <workItem from="1739231806278" duration="8000" />
+      <workItem from="1739966014576" duration="2781000" />
+      <workItem from="1740050887153" duration="34000" />
+      <workItem from="1740063567721" duration="2692000" />
+      <workItem from="1740136940695" duration="6539000" />
+      <workItem from="1740227256854" duration="1609000" />
+      <workItem from="1740234171696" duration="198000" />
+      <workItem from="1740316651609" duration="2000" />
+      <workItem from="1740316674258" duration="3525000" />
+      <workItem from="1740411339570" duration="1840000" />
+      <workItem from="1740415020583" duration="1952000" />
+      <workItem from="1740432815925" duration="2578000" />
+      <workItem from="1740483483469" duration="309000" />
+      <workItem from="1740486119021" duration="72000" />
+      <workItem from="1740486372450" duration="457000" />
+      <workItem from="1740571284550" duration="953000" />
+      <workItem from="1740654804020" duration="303000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/shopbot$db.coverage" NAME="db Coverage Results" MODIFIED="1737322912759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/shopbot$db_test.coverage" NAME="db_test Coverage Results" MODIFIED="1737338469868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/shopbot$bot.coverage" NAME="bot Coverage Results" MODIFIED="1739198204029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/shopbot$run_bot.coverage" NAME="run bot Coverage Results" MODIFIED="1740571284986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/shopbot$admin_handlers.coverage" NAME="admin_handlers Coverage Results" MODIFIED="1737909338545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
